@@ -1,0 +1,9 @@
+requests==2.31.0
+streamlit>=1.25.0
+whois
+textblob
+fpdf
+plotly
+matplotlib
+python-dateutil
+openai
